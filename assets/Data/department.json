@@ -1,0 +1,17 @@
+[
+    {
+        "departmentId" : 1,
+        "departmentName" : "HR",
+        "location" : "Pune"
+    },
+    {
+        "departmentId" : 2,
+        "departmentName" : "Finance",
+        "location" : "Noida"
+    },
+    {
+        "departmentId" : 3,
+        "departmentName" : "IT",
+        "location" : "Pune"
+    }
+]

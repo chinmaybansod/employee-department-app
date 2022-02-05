@@ -1,0 +1,30 @@
+[
+    {
+        "employeeId" : 1,
+        "employeeName" : "John",
+        "salary" : 10000,
+        "dob" : "1998-12-10",
+        "departmentId" : 1
+    },
+    {
+        "employeeId" : 2,
+        "employeeName" : "Mike",
+        "salary" : 15000,
+        "dob" : "1998-10-09",
+        "departmentId" : 1
+    },
+    {
+        "employeeId" : 3,
+        "employeeName" : "Dimitri",
+        "salary" : 18000,
+        "dob" : "1998-2-10",
+        "departmentId" : 2
+    },
+    {
+        "employeeId" : 4,
+        "employeeName" : "Sam",
+        "salary" : 12000,
+        "dob" : "1996-08-14",
+        "departmentId" : 3
+    }
+]
